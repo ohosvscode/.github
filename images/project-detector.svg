@@ -12,5 +12,15 @@
             stroke: #fff;
         }
     }
+
+    html[data-theme="white"] {
+        path {
+            fill: #000;
+            stroke: #fff;
+        }
+        .search-handle {
+            stroke: #000;
+        }
+    }
 </style>
 </svg>
