@@ -15,11 +15,11 @@
 
     html[data-theme="white"] {
         path {
-            fill: #000;
+            fill: #000 !important;
             stroke: #fff;
         }
         .search-handle {
-            stroke: #000;
+            stroke: #000 !important;
         }
     }
 </style>
