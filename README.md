@@ -10,5 +10,6 @@
   <img src="https://github.com/ohosvscode/arkTS/blob/next/packages/vscode/assets/icon.png?raw=true" width="40" />
   <img src="https://twoslash.netlify.app/logo.svg" width="40" />
   <img src="https://www.electronjs.org/assets/img/logo.svg" width="40" />
+  <img src="https://github.com/ohosvscode/YesPlayMusic/blob/master/public/img/logos/yesplaymusic.png?raw=true" width="38" />
   <img src="./images/project-detector.svg" width="40" />
 </div>
